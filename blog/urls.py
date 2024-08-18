@@ -2,6 +2,6 @@ from django.conf.urls import url
 
 from . import views
 
-urlpatterns = [
+ur lpatterns = [
     path('/', views.index)
 ]
